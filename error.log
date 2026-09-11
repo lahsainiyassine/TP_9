@@ -1,0 +1,9 @@
+[CALCULATRICE] Erreur : Division par zéro impossible
+java.lang.ArithmeticException: Division par zéro impossible
+	at com.example.tp.Calculator.div(Calculator.java:18)
+	at com.example.tp.MainJournalisation.main(MainJournalisation.java:13)
+[I/O ERROR] fichier_introuvable.txt (Le fichier spécifié est introuvable)
+[VALIDATION] Erreur : Nom d'utilisateur invalide
+com.example.tp.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.User.validate(User.java:14)
+	at com.example.tp.MainJournalisation.main(MainJournalisation.java:40)
